@@ -64,6 +64,11 @@ p{
 .experience-area h2, .experience-area h3, .experience-area p{
     text-align: center;
 }
+.experience{
+    text-align: center;
+    font-size: 45px;
+    padding-bottom: 50px;
+}
 .single-experience{
     box-shadow: 10px 10px 40px lightgrey;
     border-radius: 10px;
